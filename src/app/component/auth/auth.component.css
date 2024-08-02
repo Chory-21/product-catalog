@@ -1,0 +1,11 @@
+.login-container{
+    height: 100vh;
+}
+
+mat-card{
+    width :100%;
+    max-width: 400px;
+}
+button, mat-form-field{
+    width :100%;
+}
